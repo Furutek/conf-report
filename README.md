@@ -4,6 +4,8 @@ Tele-Conference Participants Reporting System
 
 遠隔会議参加報告システム
 
+20210806 from eriko no2
+
 ## ユーザ体験
 
 * 参加報告をメールで集めるのはうんざりだよ
