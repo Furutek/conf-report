@@ -6,9 +6,7 @@ Tele-Conference Participants Reporting System
 
 20210806 from eriko no2
 
-20210810 from tak aaaaaaaaaaa
-
-20210810 ver2
+20210810 ttaakk
 
 ## ユーザ体験
 
