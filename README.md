@@ -8,6 +8,8 @@ Tele-Conference Participants Reporting System
 
 20210810 ttaakk
 
+20210810 ver3
+
 ## ユーザ体験
 
 * 参加報告をメールで集めるのはうんざりだよ
