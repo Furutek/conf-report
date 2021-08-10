@@ -6,6 +6,8 @@ Tele-Conference Participants Reporting System
 
 20210806 from eriko no2
 
+20210810 ttaakk
+
 ## ユーザ体験
 
 * 参加報告をメールで集めるのはうんざりだよ
