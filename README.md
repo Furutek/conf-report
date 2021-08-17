@@ -4,16 +4,6 @@ Tele-Conference Participants Reporting System
 
 遠隔会議参加報告システム
 
-20210806 from eriko no2
-
-20210810 ttaakk
-
-20210810 ver3
-
-20210810 ver4
-
-20210810 ver5
-
 ## ユーザ体験
 
 * 参加報告をメールで集めるのはうんざりだよ
@@ -41,6 +31,8 @@ Tele-Conference Participants Reporting System
 * メールアドレス - 名前から紐づく　（今回はMLで登録しよう！みたいな場合は？）
 
 ## ビュー（V)
+
+![遷移図](http://yuml.me/diagram/nofunky;dir:TB/activity/(start)-%3E%5BIndex%5D-%3E%7Ca%7C,%20%7Ca%7C-%3E%5BDelete%5D-%3E%5BIndex%5D,%20%7Ca%7C-%3E%5BDetail%5D-%3E%5BCreate/Edit%20Participant%5D-%3E%5BDetail%5D,%20%7Ca%7C-%3E%5BCreate/Edit%20Conference%5D-%3E%5BDetail%5D,%20%5BDetail%5D-%3E%5BCreate/Edit%20Conference%5D,%20%5BDetail%5D-%3E%5BDelete%5D)
 
 ### index （会議一覧）
 
